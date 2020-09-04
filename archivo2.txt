@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 modificado por Angeles desde Master
 
+=======
+echo por sebastian 2
+>>>>>>> cc03062ce92af3763e8f2d08a191fab80c74ddae
