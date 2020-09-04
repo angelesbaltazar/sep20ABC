@@ -5,5 +5,10 @@ modificado desde rama Angeles por Angeles
 >>>>>>> angeles
 
 =======
+<<<<<<< HEAD
 modificado por salvador
 >>>>>>> 5868216d8bb0c6f3944ce5d3544b72527f979010
+=======
+echo por sebastian 2
+>>>>>>> cc03062ce92af3763e8f2d08a191fab80c74ddae
+>>>>>>> sebastian

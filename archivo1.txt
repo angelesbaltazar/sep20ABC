@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 archivo de prueba"
 <<<<<<< HEAD
 modificacion por ABC
+=======
+esto es un archivo de prueba de sebastian 
+>>>>>>> sebastian
 
 =======
 modificadosalvador1
