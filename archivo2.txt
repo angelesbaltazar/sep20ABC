@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 modificado por Angeles desde Master
+=======
+modificado desde rama Angeles por Angeles
+>>>>>>> angeles
 
