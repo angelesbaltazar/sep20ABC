@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 modificado por Angeles desde Master
 =======
 modificado desde rama Angeles por Angeles
@@ -12,3 +13,11 @@ modificado por salvador
 echo por sebastian 2
 >>>>>>> cc03062ce92af3763e8f2d08a191fab80c74ddae
 >>>>>>> sebastian
+=======
+archivo de prueba"
+
+
+linea agregada por jmc
+linea agregada por jmc
+linea agregada por jmc
+>>>>>>> juan

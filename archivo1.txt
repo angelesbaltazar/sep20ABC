@@ -6,6 +6,11 @@ modificacion por ABC
 esto es un archivo de prueba de sebastian 
 >>>>>>> sebastian
 
+<<<<<<< HEAD
 =======
 modificadosalvador1
 >>>>>>> salvador
+=======
+linea agregada por jmc
+
+>>>>>>> juan
