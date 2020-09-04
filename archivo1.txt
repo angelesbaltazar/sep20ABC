@@ -1,3 +1,7 @@
 archivo de prueba"
+<<<<<<< HEAD
 modificacion por ABC
 
+=======
+modificadosalvador1
+>>>>>>> salvador

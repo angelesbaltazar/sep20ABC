@@ -4,3 +4,6 @@ modificado por Angeles desde Master
 modificado desde rama Angeles por Angeles
 >>>>>>> angeles
 
+=======
+modificado por salvador
+>>>>>>> 5868216d8bb0c6f3944ce5d3544b72527f979010
